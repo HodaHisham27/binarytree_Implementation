@@ -1,6 +1,6 @@
 #include "../include/tree.h"
 
-void creareTree ( tree *pt )
+void createTree ( tree *pt )
 {
     pt->root=NULL;
 }
